@@ -1,0 +1,24 @@
+{
+  "name": "gcdscommunityservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs242424/gcdsCommunityService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs242424/gcdsCommunityService/issues"
+  },
+  "homepage": "https://github.com/hs242424/gcdsCommunityService#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sqlite3": "^5.0.2"
+  }
+}
